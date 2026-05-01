@@ -1,1 +1,2 @@
 # microbes_detection_in_water
+by using experimental results we obtained microscopic level sample images of both river and drinking water and thease images were futher processed to get enhance quality images by using digital image processing techniques and with that image the next step involves detecting and estimating the population of microbe contents in both the water samples and furtherly classified into whether the water is drinkable or not.
